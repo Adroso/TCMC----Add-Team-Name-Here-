@@ -1,0 +1,288 @@
+@charset "UTF-8";
+/* CSS For TCMC*/
+/* START General Styles */
+/* Note Additional lines of CSS for pages not yet uploaded to the server*/
+body{
+	background-image:url(bg-1.png);
+	background-color: #333333;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #EFEFEF;
+	background-attachment: fixed;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-left: 0px;               
+	margin-bottom: 0px;
+	font-weight: 100;
+}
+
+#container{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+	padding-top: 0px;
+	position: relative;
+	z-index: -1;
+}
+
+h1{
+	padding-left: 15px;
+	font-style: normal;
+	font-weight: normal;
+	color:#b90000;
+}
+h2{
+	font-weight: normal;
+	padding-left: 25px;
+	color:#b90000;
+}
+
+p{
+	text-align: left;
+	color: #393939;
+	font-weight: 400;
+	font-size: medium;
+	font-style: normal;
+	padding-bottom: 2px;
+	padding-left: 25px;
+	padding-right: 20px;
+	padding-top: 2px;
+	text-decoration: none;
+}
+
+p2{
+	text-align: left;
+	display:block;
+	color: #fff;
+	font-weight: 400;
+	font-size: medium;
+	font-style: normal;
+	padding-left: 25px;
+	padding-right: 5px;
+	text-decoration: none;	
+}
+
+ul{
+	color:#393939;
+}
+	
+a:link {
+    text-decoration: none;
+	color: #a10606;
+}
+
+a:visited {
+    text-decoration: none;
+	color: #a10606;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    text-decoration: underline;
+}
+form{
+	padding-left: 25px;
+}
+td{
+	padding:4px;	
+}
+
+
+
+a img {outline : none;}
+img {border : 0;}
+
+/* END General Styles */
+
+
+/* START OF  ALL HEADER and NAVIGATION */
+#logo{
+	position: absolute;
+	top:3px;
+	height:60px;
+	width:91px;
+	
+}
+#header{               /* Extends the color to screen edges */
+	width: 100%;
+	height: 60px;
+	background: #212121;
+	
+}
+#header2{              /* contains Nav elements */
+	position:relative;
+	width:1200px;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+#navigation
+{
+	float: left;
+	width: 600px;
+	height: 60px;
+	background: #212121;
+	border-radius: 5px;
+	margin-left: 77px;
+
+}
+
+#navigation ul
+{
+	margin-top: 0px;
+	margin-bottom: 64%;
+
+}
+
+#navigation ul li
+{
+	list-style-type: none;
+	display:block;
+	float: left;
+
+}
+#navigation ul ul {
+	background: #212121;
+	border-radius: 0px;
+	padding: 0;
+	position: absolute;
+	display: none;
+	top: 59px;
+
+
+}
+
+#navigation ul li:hover > ul {
+	display: block;
+
+
+	}
+#navigation ul ul li {
+	float: none; 
+	position: relative;
+}
+#navigation ul ul li a {
+	padding: 15px 20px;
+	color: #fff;
+	}	
+		
+#navigation ul ul li a:hover {
+	background: #eb4549;
+
+}
+#navigation ul li a {
+	display: block;
+	color: #fff;
+	text-decoration: none;
+	padding-bottom: 9px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 22px;
+
+}
+	
+#navigation li a
+{
+	display: block;
+	float: left;
+	padding-top: 33px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 5px;
+	color: #fff;
+	text-decoration: none;
+	height: 30px;
+}
+
+#navigation a{
+	  color:blue;
+  -o-transition:.3s;
+  -ms-transition:.3s;
+  -moz-transition:.3s;
+  -webkit-transition:.3s;
+  transition:.3s;	
+}
+
+#navigation li a:hover { 
+background-color:#eb4549;
+z-index: 10;
+}	
+
+/* END of ALL HEADER and NAVIGATION*/
+
+
+
+/* START Content Container Styles */
+
+#Content{
+	background-color: #FFF;
+	height: auto;
+	float: left;
+	width: 1200px;
+	padding-left: 0px;
+	margin-top: 20px;
+}
+#featuredsml{
+	float: left;
+	background-color: #FFF;
+	margin-top: 20px;
+	width: 380px;
+	padding-right: 0px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+}
+#cmain{ /* Main Content Section */
+	float: left;
+	width: 1200px;
+	height: auto;
+	padding: 5px;
+}
+
+#artleft{ /* Left Content Section */
+	float:left;
+	width:570px;
+	height:auto;
+	padding:2px;
+}
+
+#artright{ /* Right Content Section */
+	float: right;
+	width: 500px;
+	height: auto;
+	padding-left: 10px;
+	margin-top: -20px;
+}
+
+/* END Content Container Styles */
+#Footer{
+	background: #212121;
+	height: 170px;
+	width: 1200px;
+	float: left;
+	top: 20px;
+	position: relative;
+	text-align: center;
+	opacity: 0.9;
+}
+#footerhead	{
+	width: 1200px;
+	height: 30px;
+	float: left;
+	padding-top: 10px;
+}
+
+#footercontact{
+	width:600px;
+	height:90px;
+	float:left;
+}
+
+#footerright{
+	width:600px;
+	height:90px;
+	float:left;
+}
