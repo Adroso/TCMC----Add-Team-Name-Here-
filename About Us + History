@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Harbourside Duo</title>
+<link href="css.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+<div id="header">
+	<div id="header2">
+    
+		<div id="logo"><a href="index.html"><img src="TCMC Images Docs/SiteImages/TCMC98Neg.gif" width="90" height="61"  alt=""/></a></div>
+    
+        
+ 		<div id="navigation">
+ 			<ul>
+                <li><a href="events.html">Events</a>
+                	<ul>
+                    	<li><a href="board.html">Bulletin Board</a></li>
+           			</ul>
+                </li>	
+				<li><a href="membership.html"> Membership</a></li>
+            	<li><a href="artists.html">Muso's</a></li>
+				<li><a href="about_us.html">About Us</a>
+             		<ul>
+                    	<li><a href="contact_us.html">Contact Us</a></li>
+                        <li><a href="sponsors.html">Sponsors</a></li>
+                        <li><a href="new_to_townsville.html">New to Townsville?</a></li>
+           			</ul>
+                    
+			  </li>
+              
+         	</ul>
+            
+         </div>
+         
+         <a href="sign_in.html"><img style="float:right; padding-top:12px;" src="TCMC Images Docs/buttons/signin.png" width="90" height="35"  alt=""/></a>
+         <a href="sign_up.html"><img style="float:right; padding-top:12px; padding-right:10px;"src="TCMC Images Docs/buttons/signup.png" width="100" height="35"  alt=""/></a>
+	</div>
+</div>
+
+<div id="container">
+
+
+        
+     
+    
+		<div id="Content">
+ 			 <h1>About Us</h1>
+
+<div id="artleft"><p>Based in Townsville, North Qld, the Music Centre presents concerts and workshops throughout the year, in a diverse range of genres including</p>
+ <ul>
+  <li>Classical</li>
+  <li>Jazz</li>
+  <li>Folk</li>
+  <li>Blues</li>
+  <li>World and Contemporary music</li>
+</ul> 
+  <p>Featuring touring artists and locally-based professional and emerging artists. </p>
+  <h1>History</h1>
+  <p>As part of the relocation of the Music Centre to the Civic Theatre, Bronia Renison and Jean Dartnall, both librarians, have assessed the old collection of sheet music, books and recorded music which the centre has been storing, unused, for many years. Sometimes older things have to be discarded to make way for the new, but the Music Centre is aware that older material may still have value. 
+The National Library of Australia has an online catalogue (TROVE) that lists not only its own holdings but also information about items held by many other libraries around Australia. Using this catalogue Bronia and Jean have identified at least 150 items of music that are not held by any of the country's major libraries. These items have been donated to the National Library to include in their collection and thus made available to all historians and musicians.
+<div id="artright"> 
+  <div align="center"><img src="TCMC Images Docs/bulletin/old-music.jpg" width="500" height="237" alt=""/> </div>
+</div>
+    <div align="center"><br>
+      <br>
+      Also discovered in the old collection were some pieces relevant to North Queensland. Local musicians performed these at a musical social afternoon on Sunday April 21st in C2 at the Civic Theatre. The remaining sheet music, books and CDs were put on display and distributed free of charge to the local music community. </p>
+    </div>
+    <p><b> Contact Number:</b> 0459 239 290</p> 
+    <p><b>Website:</b> <a href="http://www.davidrobertsguitar.com.au/Harbourside-Duo.html">www.davidrobertsguitar.com.au</a></p>
+  
+  </div>
+  <div id="artright"></div>
+
+					
+    
+</div>
+
+  <div id="Footer"><div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> | <a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div> <div id="footercontact">   <p2> Contact Details:</p2>
+  <p2>PO Box 1006, Townsville QLD 4810</p2>
+  <p2>Phone - 47 242 086</p2>
+  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt=""/></a>
+    <a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534"><img style="float:right; padding-right:20px;"src="TCMC Images Docs/SiteImages/FBimages.png" width="147" height="98"  alt=""/></a>
+  </div>  &copy; TCMC
+    
+  
+  </div>
+</div>
+  </div>
+  
+</body>
+</html>
