@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Contact Us</title>
+<link href="css.css" rel="stylesheet" type="text/css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+<div id="header">
+	<div id="header2">
+    
+		<div id="logo"></div>
+    
+        
+ 		<div id="navigation">
+ 			<ul>
+                <li><a href="events.html">Events</a>
+                	<ul>
+                    	<li><a href="board.html">Bulletin Board</a></li>
+           			</ul>
+                </li>	
+				<li><a href="membership.html"> Membership</a></li>
+            	<li><a href="artists.html">Muso's</a></li>
+				<li><a href="about_us.html">About Us</a>
+             		<ul>
+                    	<li><a href="contact_us.html">Contact Us</a></li>
+                        <li><a href="sponsors.html">Sponsors</a></li>
+                        <li><a href="new_to_townsville.html">New to Townsville?</a></li>
+           			</ul>
+                    
+			  </li>
+              
+         	</ul>
+            
+      </div>
+         
+         <a href="sign_in.html"><img style="float:right; padding-top:12px;" src="TCMC Images Docs/buttons/signin.png" width="90" height="35"  alt=""/></a>
+         <a href="sign_up.html"><img style="float:right; padding-top:12px; padding-right:10px;"src="TCMC Images Docs/buttons/signup.png" width="100" height="35"  alt=""/></a>
+	</div>
+</div>
+
+<div id="container">
+
+
+        
+     
+    
+		<div id="Content">
+ 			 <h1>Contact Us</h1>
+
+<div id="artleft">
+  <pre>With the support of the Townsville City Council, we work from an office in the Civic Theatre building.  (Take the lift near the ticket office to Level 2) </pre>
+  <p>&nbsp;</p>
+ <div>
+   <pre>"Normal" office hours -   <br>9.30 -2.30 Monday - Wednesday  <br>Any other time just call 0402 255 182 </pre>
+ </div> 
+  <pre>Contact Details:-   <br>Phone   07 4724 2086   <br>Mobile    0402 255 182   <br>e-mail us with your query  <br>Postal Address  PO Box 1006, Townsville, Qld 4810  <br>Address  Townsville Civic Theatre, 41 Boundary Street, Townsville, Qld 4810 </pre>
+  
+  <h1> Map </h1>
+  <div> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3766.248333030928!2d146.80920799999998!3d-19.271563999999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6bd5f92267e9596d%3A0x58cd8e35887d45e0!2sTownsville+Civic+Theatre!5e0!3m2!1sen!2sau!4v1431654897254" width="600" height="450" frameborder="0" style="border:0"></iframe></div>
+  
+  <div id="artright"> 
+  <div align="center"></div>
+</div>
+     
+    <p><b>Website:</b> <a href="http://www.davidrobertsguitar.com.au/Harbourside-Duo.html">www.davidrobertsguitar.com.au</a></p>
+  
+  </div>
+  <div id="artright"></div>
+
+					
+    
+</div>
+
+  <div id="Footer"><div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> | <a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div> <div id="footercontact">   <p2> Contact Details:</p2>
+  <p2>PO Box 1006, Townsville QLD 4810</p2>
+  <p2>Phone - 47 242 086</p2>
+  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt=""/></a>
+    <a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534"><img style="float:right; padding-right:20px;"src="TCMC Images Docs/SiteImages/FBimages.png" width="147" height="98"  alt=""/></a>
+  </div>  &copy; TCMC
+    
+  
+  </div>
+</div>
+  </div>
+  
+</body>
+</html>
