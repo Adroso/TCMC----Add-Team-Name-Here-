@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>TCMC</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link href="css.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+<div id="header">
+	<div id="header2">
+    
+		<div id="logo"><a href="index.html"><img src="TCMC Images Docs/SiteImages/TCMC98Neg.gif" width="91" height="60"  alt=""/></a></div>
+    
+        
+ 		<div id="navigation">
+ 			<ul>
+                <li><a href="events.html">Events</a>
+                	<ul>
+                    	<li><a href="board.html">Bulletin Board</a></li>
+           			</ul>
+                </li>	
+				<li><a href="membership.html"> Membership</a></li>
+            	<li><a href="artists.html">Muso's</a></li>
+				<li><a href="about_us.html">About Us</a>
+             		<ul>
+                    	<li><a href="contact_us.html">Contact Us</a></li>
+                        <li><a href="sponsors.html">Sponsors</a></li>
+                        <li><a href="new_to_townsville.html">New to Townsville?</a></li>
+           			</ul>
+				</li>
+         	</ul>
+		</div>
+        <a href="sign_in.html"><img style="float:right; padding-top:12px;" src="TCMC Images Docs/buttons/signin.png" width="90" height="35"  alt=""/></a>
+         <a href="sign_up.html"><img style="float:right; padding-top:12px; padding-right:10px;"src="TCMC Images Docs/buttons/signup.png" width="100" height="35"  alt=""/></a>
+	</div>
+</div>
+
+
+<div id="container">
+<h1 style="color:#fff;">Artists</h1>
+<div id="featuredart">bv</div>
+    <div id="individualart"></div>
+    <div id="individualart"></div>
+    <div id="individualart"></div>
+    <div id="individualart"></div>
+    <div id="individualart"></div>
+            <div id="individualart"></div>
+            <div id="individualart"></div>
+            <div id="individualart"></div>
+            <div id="individualart"></div>
+            <div id="individualart"></div>
+
+
+
+    
+
+  <div id="Footer"> <div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> | <a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div> <div id="footercontact">   <p2> Contact Details:</p2>
+  <p2>PO Box 1006, Townsville QLD 4810</p2>
+  <p2>Phone - 47 242 086</p2>
+  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt=""/></a>
+    <a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534"><img style="float:right; padding-right:20px;"src="TCMC Images Docs/SiteImages/FBimages.png" width="147" height="98"  alt=""/></a>
+  </div> &copy; TCMC
+  
+  
+  
+  		</div>
+ 	 </div>
+  </div>
+  
+</body>
+</html>
