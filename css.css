@@ -3,16 +3,17 @@
 /* START General Styles */
 /* Note Additional lines of CSS for pages not yet uploaded to the server*/
 body{
-	background-image:url(bg-1.png);
+	background-image: url(bg2.png);
 	background-color: #333333;
-	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	color: #EFEFEF;
-	background-attachment: fixed;
+	background-attachment: scroll;
 	margin-top: 0px;
 	margin-right: 0px;
-	margin-left: 0px;               
+	margin-left: 0px;
 	margin-bottom: 0px;
 	font-weight: 100;
+
 }
 
 #container{
@@ -31,9 +32,9 @@ h1{
 	color:#b90000;
 }
 h2{
-	font-weight: normal;
+	font-weight: lighter;
 	padding-left: 25px;
-	color:#b90000;
+	color: #b90000;
 }
 
 p{
@@ -118,7 +119,9 @@ img {border : 0;}
 	margin-right:auto;
 
 }
-
+#navigation a:hover, #navigation .current {
+background-color:#eb4549;
+}
 #navigation
 {
 	float: left;
@@ -225,6 +228,25 @@ z-index: 10;
 	padding-left: 0px;
 	margin-top: 20px;
 }
+#featuredart{
+	background-color: #FFF;
+	margin-top: 20px;
+	width:1200px;
+	height:300px;
+	margin-bottom: 20px;
+}
+#individualart{
+	float:left;
+	width:200px;
+	height:100px;
+	background-color: #FFF;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+
+}
+
 #featuredsml{
 	float: left;
 	background-color: #FFF;
@@ -255,6 +277,21 @@ z-index: 10;
 	height: auto;
 	padding-left: 10px;
 	margin-top: -20px;
+}
+
+#textleft{ /* Left Content Section */
+	float:left;
+	width:570px;
+	height:auto;
+	padding:2px;
+}
+
+#textright{ /* Left Content Section */
+	float:left;
+	width:570px;
+	height:auto;
+	padding:2px;
+	padding-left:50px;
 }
 
 /* END Content Container Styles */
