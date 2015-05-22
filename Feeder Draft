@@ -16,18 +16,18 @@
         
  		<div id="navigation">
  			<ul>
-                <li><a href="events.html">Events</a>
+                <li> <a href="events.html">Events</a>
                 	<ul>
-                    	<li><a href="board.html">Bulletin Board</a></li>
+                    	<li> <a href="board.html">Bulletin Board</a></li>
            			</ul>
                 </li>	
-				<li><a href="membership.html"> Membership</a></li>
-            	<li><a href="artists.html">Muso's</a></li>
-				<li><a href="about_us.html">About Us</a>
+				<li> <a href="membership.html"> Membership</a></li>
+            	<li> <a href="artists.html">Muso's</a></li>
+				<li> <a href="about_us.html">About Us</a>
              		<ul>
-                    	<li><a href="contact_us.html">Contact Us</a></li>
-                        <li><a href="sponsors.html">Sponsors</a></li>
-                        <li><a href="new_to_townsville.html">New to Townsville?</a></li>
+                    	<li> <a href="contact_us.html">Contact Us</a></li>
+                        <li> <a href="sponsors.html">Sponsors</a></li>
+                        <li> <a href="new_to_townsville.html">New to Townsville?</a></li>
            			</ul>
                     
 			  </li>
