@@ -270,6 +270,17 @@ z-index: 10;
 	width:1200px;
 	height:250px;
 }
+#artinfo { 
+display: none; 
+}
+#individualart:hover #artinfo { 
+display: block;
+ }
+ 
+ #individualart:hover img { 
+display: none; 
+ }
+
 #artleft{ 
 	float:left;
 	width:570px;
