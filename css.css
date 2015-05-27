@@ -22,7 +22,7 @@ body{
 	width: 1200px;
 	padding-top: 0px;
 	position: relative;
-	z-index: -1;
+	z-index: 1;
 }
 
 h1{
@@ -130,6 +130,7 @@ background-color:#eb4549;
 	background: #212121;
 	border-radius: 5px;
 	margin-left: 77px;
+	z-index:4;
 
 }
 
@@ -154,6 +155,7 @@ background-color:#eb4549;
 	position: absolute;
 	display: none;
 	top: 59px;
+	z-index:4;
 
 
 }
@@ -201,7 +203,6 @@ background-color:#eb4549;
 }
 
 #navigation a{
-	  color:blue;
   -o-transition:.3s;
   -ms-transition:.3s;
   -moz-transition:.3s;
@@ -211,7 +212,7 @@ background-color:#eb4549;
 
 #navigation li a:hover { 
 background-color:#eb4549;
-z-index: 10;
+z-index: 4;
 }	
 
 /* END of ALL HEADER and NAVIGATION*/
@@ -237,17 +238,16 @@ z-index: 10;
 }
 #individualart{
 	float:left;
-	width:200px;
-	height:100px;
+	width:220px;
+	height:140px;
 	background-color: #FFF;
 	margin-top: 20px;
-	margin-right: 20px;
-	margin-left: 20px;
+	margin-right: 10px;
+	margin-left: 10px;
 	margin-bottom: 20px;
 
 }
-
-#featuredsml{
+#featuredsml{ /* home page featured*/
 	float: left;
 	background-color: #FFF;
 	margin-top: 20px;
@@ -263,12 +263,13 @@ z-index: 10;
 	height: auto;
 	padding: 5px;
 }
+
 #event{
 	background-color: #FFF;
 	margin-bottom: 20px;
 	margin-top: 20px;
 	width:1200px;
-	height:250px;
+	height:auto;
 }
 #artinfo { 
 display: none; 
@@ -288,14 +289,7 @@ display: none;
 	padding:2px;
 }
 
-#artleft{ /* Left Content Section */
-	float:left;
-	width:570px;
-	height:auto;
-	padding:2px;
-}
-
-#artright{ /* Right Content Section */
+#artright{ /* Right Content Section for artists */
 	float: right;
 	width: 500px;
 	height: auto;
@@ -303,14 +297,14 @@ display: none;
 	margin-top: -20px;
 }
 
-#textleft{ /* Left Content Section */
+#textleft{ /* Left Content Section for text base*/
 	float:left;
 	width:570px;
 	height:auto;
 	padding:2px;
 }
 
-#textright{ /* Left Content Section */
+#textright{ /* Left Content Section for text base*/
 	float:left;
 	width:570px;
 	height:auto;
@@ -325,7 +319,7 @@ display: none;
 	height: 170px;
 	width: 1200px;
 	float: left;
-	top: 20px;
+	top: 30px;
 	position: relative;
 	text-align: center;
 	opacity: 0.9;
