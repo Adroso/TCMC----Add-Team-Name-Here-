@@ -44,10 +44,8 @@
 <div id="container">
 
 
-        
-     
     
-		<div id="Content"><img style="display:inline; float:right; padding:20px;"src="TCMC Images Docs/SiteImages/30anniversary02300.png" width="336" height="337"  alt=""/>
+		<div id="Content"><img style="display:inline; float:right; padding:20px;"src="TCMC Images Docs/SiteImages/civic.png" width="600" height="356"  alt=""/>
  			 <h1>About Us</h1>
  			 
 
@@ -65,7 +63,7 @@
 The National Library of Australia has an online catalogue (TROVE) that lists not only its own holdings but also information about items held by many other libraries around Australia. Using this catalogue Bronia and Jean have identified at least 150 items of music that are not held by any of the country's major libraries. These items have been donated to the National Library to include in their collection and thus made available to all historians and musicians.
 <h2>Event Timeline</h2>
   
- <table width="1200" border="0" cellspacing="5" cellpadding="5">
+ <table width="1200" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><p>1983</p></td>
     <td><p>The Townsville Community Music Centre was established at a public meeting on May 24th. Then Deputy Mayor, Ken McElligott, opened the meeting and presented a cheque for $50 from the City Council to cover initial petty cash, the Centre's first funds. At the meeting an executive committee was formed. Over the next few weeks that committee drafted a constitution which was endorsed at another public meeting on June 15th. Fred Thompson was Chairman from September 1983, with Gordon Dean as his Deputy and Jan Eagleton as Secretary.</p></td>
@@ -119,12 +117,13 @@ The National Library of Australia has an online catalogue (TROVE) that lists not
     
 </div>
 
-  <div id="Footer"><div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> | <a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div> <div id="footercontact">   <p2> Contact Details:</p2>
+  <div id="Footer"><div id="footercontact">   <p2> Contact Details:</p2>
   <p2>PO Box 1006, Townsville QLD 4810</p2>
   <p2>Phone - 47 242 086</p2>
   <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt=""/></a>
     <a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534"><img style="float:right; padding-right:20px;"src="TCMC Images Docs/SiteImages/FBimages.png" width="147" height="98"  alt=""/></a>
-  </div>  &copy; TCMC
+  </div> &copy; TCMC<div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> |<a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div>
+  
     
   
   </div>
