@@ -48,20 +48,32 @@
      
     
 		<div id="Content">
-        <div id="cmain">
+        <div id="cmain"><img style="display:inline; float:right; padding:15px;"src="TCMC Images Docs/SiteImages/30anniversary023001.png" width="230" height="231"  alt="30 year anniversar of TCMC"/>
  			 <h1>TCMC Membership</h1>
 
 <p>You can support the Music Centre by becoming a Member and derive some benefits for yourself at the same time. Your subscription helps to keep us operating and we provide substantial discounts whenever possible. 
 </p>
- <p>For the Music Centre's own events, Members' ticket discounts can be as high as 50%! </p></div>
+ <p>For the Music Centre's own events, Members' <b>ticket discounts can be as high as 50%! </b></p></div>
  
  <div id="textleft">
- <h2>Sign Up</h2>
+ <a href="sign_up.html"><img style="padding-left:90px;padding-top:30px;" src="TCMC Images Docs/buttons/sign.png" width="221" height="59"  alt=""/></a>
  </div>
  <div id="textright">
  <h2>Donate</h2>
  <p><b>The Music Centre is also registered as a Deductible Gift Recipient. Any extra donations are tax-deductible!</b></p>
- 
+ <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="admin@townsvillemusic.org.au">
+<input type="hidden" name="lc" value="AU">
+<input type="hidden" name="item_name" value="Townsville Community Music Centre">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="AUD">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donateCC_LG.gif:NonHostedGuest">
+<input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal — The safer, easier way to pay online.">
+<img style="padding-bottom:20px;" alt="Paypal Donate" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
 </div>
  
 
@@ -69,12 +81,13 @@
     
 </div>
 
-  <div id="Footer"><div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> | <a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div> <div id="footercontact">   <p2> Contact Details:</p2>
+  <div id="Footer"><div id="footercontact">   <p2> Contact Details:</p2>
   <p2>PO Box 1006, Townsville QLD 4810</p2>
   <p2>Phone - 47 242 086</p2>
-  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt="M"/></a>
+  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt=""/></a>
     <a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534"><img style="float:right; padding-right:20px;"src="TCMC Images Docs/SiteImages/FBimages.png" width="147" height="98"  alt=""/></a>
-  </div>  &copy; TCMC
+  </div> &copy; TCMC<div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> |<a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div>
+  
     
   
   </div>
