@@ -2,8 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>C<br>
-Sponsors</title>
+<title>Sponsors</title>
 <link href="css.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 </head>
@@ -57,11 +56,13 @@ Our music concerts are well-publicised and well-attended and sponsors enjoy bran
  <p> </p></div>
  
  <div id="textleft">
+ <img style="display:inline; float:right"src="TCMC Images Docs/SiteImages/TCCcolour150193.gif" width="150" height="193"  alt="City of townsville logo"/>
  <h2>Townsville City Council</h2>
  <p>The Council's Partnerships and Sponsorships scheme provides vital core funding which enables us to maintain the administrative base for all our other activities, and also provides the premises which house our office space. 
-The Council also assists with the performance venues for our concerts and workshops.</p>
+   The Council also assists with the performance venues for our concerts and workshops.</p>
  </div>
  <div id="textright">
+ <img style="display:inline; float:right" src="TCMC Images Docs/SiteImages/art-Qld_Logo_crest-620x349.png" width="150" height="169"  alt="Queensland Government Crest"/>
  <h2>Queensland Government</h2>
  <p>The Gambling Community Benefit Fund has assisted us to obtain office equipment and sound and lighting equipment for our productions</p>
  
@@ -72,12 +73,13 @@ The Council also assists with the performance venues for our concerts and worksh
     
 </div>
 
-  <div id="Footer"><div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> | <a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div> <div id="footercontact">   <p2> Contact Details:</p2>
+  <div id="Footer"><div id="footercontact">   <p2> Contact Details:</p2>
   <p2>PO Box 1006, Townsville QLD 4810</p2>
   <p2>Phone - 47 242 086</p2>
-  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt="M"/></a>
+  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt=""/></a>
     <a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534"><img style="float:right; padding-right:20px;"src="TCMC Images Docs/SiteImages/FBimages.png" width="147" height="98"  alt=""/></a>
-  </div>  &copy; TCMC
+  </div> &copy; TCMC<div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> |<a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div>
+  
     
   
   </div>
