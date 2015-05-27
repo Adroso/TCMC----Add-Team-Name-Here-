@@ -16,18 +16,18 @@
         
  		<div id="navigation">
  			<ul>
-                <li> <a href="events.html">Events</a>
+                <li><a href="events.html">Events</a>
                 	<ul>
-                    	<li> <a href="board.html">Bulletin Board</a></li>
+                    	<li><a href="board.html">Bulletin Board</a></li>
            			</ul>
                 </li>	
-				<li> <a href="membership.html"> Membership</a></li>
-            	<li> <a href="artists.html">Muso's</a></li>
-				<li> <a href="about_us.html">About Us</a>
+				<li><a href="membership.html"> Membership</a></li>
+            	<li><a href="artists.html">Muso's</a></li>
+				<li><a href="about_us.html">About Us</a>
              		<ul>
-                    	<li> <a href="contact_us.html">Contact Us</a></li>
-                        <li> <a href="sponsors.html">Sponsors</a></li>
-                        <li> <a href="new_to_townsville.html">New to Townsville?</a></li>
+                    	<li><a href="contact_us.html">Contact Us</a></li>
+                        <li><a href="sponsors.html">Sponsors</a></li>
+                        <li><a href="new_to_townsville.html">New to Townsville?</a></li>
            			</ul>
                     
 			  </li>
@@ -50,27 +50,32 @@
 		<div id="Content">
         <div id="cmain">
  			 <h1>New to Townsville?</h1>
+ 			 <img style="float:right; padding:50px;"src="TCMC Images Docs/SiteImages/TCMC150100.jpg" width="150" height="100"  alt="TCMC Logo"/>
 
 <p>General information about Townsville is available at -<br>
-  <a href="http://www.townsville.qld.gov.au/townsville/infocentre/Pages/default.aspx">Townsville info-centre website</a><br>
+ <a href="http://www.townsville.qld.gov.au/townsville/infocentre/Pages/default.aspx"> Townsville Info Centre </a><br>
   <br>
-  Townsville has a population of about 200,000 and is growing at about 1 suburb per year, so there is a lot of musical activity. All private schools and most government schools have music teachers. The larger private schools are Townsville Grammar, the Cathedral School and Ryan Catholic College. The larger public high schools are Kirwan and Pimlico.</p>
+  Townsville has a population of about 200,000 and is growing at about 1 suburb per year, so there is a lot of musical activity. <br>
+  <br>All private schools and most government schools have music teachers. <br>
+ 
+  The larger private schools are Townsville Grammar, the Cathedral School and Ryan Catholic College. <br>
+  The larger public high schools are Kirwan and Pimlico.</p>
  </div>
  
  <div id="textleft">
- <h2>Places to learn</h2>
+ <h2>Places to learn music</h2>
  <p>Music Teachers Association of Qld is a good source of information for local music teachers.<br>
    The Townsville Branch contact is the Secretary (Ms Margery Jorgensen)<br>
-   Phone (07) 47790382<br>
-   Email: mjo11750@bigpond.net.au<br><br>
-   Another active teacher's organisation is the Kodaly Music Education Institute of Australia -<br>
-   www.kodaly.org.au/<br>
-   Information on their Townsville Chapter can be found at -<br>
-   http://webapps.townsville.qld.gov.au/CommunityDirectory/Organisation/OrganisationDetails/1185</p>
+   <b>Phone</b> (07) 47790382<br>
+  <b> Email:</b> mjo11750@bigpond.net.au<br><br>
+   Another active teacher's organisation is the Kodaly Music Education Institute of Australia -
+   <a href="www.kodaly.org.au">www.kodaly.org.au</a><br>
+   Information on their Townsville Chapter can be found at -
+   <a href="http://webapps.townsville.qld.gov.au/CommunityDirectory/Organisation/OrganisationDetails/1185">Kodaly Music Education</a> </p>
  </div>
  <div id="textright">
  <h2>Want to busk?</h2>
- <p>Busking is permitted at several public spaces around the city with a Buskers Permit from the city council - phone 4727 9680.
+ <p>Busking is permitted at several public spaces around the city with a Buskers Permit from the city council <br><br> <b>Phone</b> 4727 9680. <br><br>
 There is no age limit, but buskers 16 and under will need to be accompanied by a parent/guardian.
 </p>
  </div>
@@ -79,12 +84,13 @@ There is no age limit, but buskers 16 and under will need to be accompanied by a
     
 </div>
 
-  <div id="Footer"><div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> | <a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div> <div id="footercontact">   <p2> Contact Details:</p2>
+  <div id="Footer"><div id="footercontact">   <p2> Contact Details:</p2>
   <p2>PO Box 1006, Townsville QLD 4810</p2>
   <p2>Phone - 47 242 086</p2>
-  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt="M"/></a>
+  <p2>Mobile - 04 022 551 82</p2></div><div id="footerright">  <a href="http://www.townsville.qld.gov.au/Pages/default.aspx"><img style="float:right; padding-right:20px"src="TCMC Images Docs/SiteImages/TCCcolour.png" width="65" height="84"  alt=""/></a>
     <a href="https://www.facebook.com/pages/Townsville-Community-Music-Centre/159636880763534"><img style="float:right; padding-right:20px;"src="TCMC Images Docs/SiteImages/FBimages.png" width="147" height="98"  alt=""/></a>
-  </div>  &copy; TCMC
+  </div> &copy; TCMC<div id="footerhead"><a href="events.html">Events</a> | <a href="board.html">Bulletin Board</a> | <a href="membership.html">Membership</a> |<a href="sign_Up.html">Sign Up</a> | <a href="artists.html">Muso's</a> | <a href="about_us.html">About Us</a> | <a href="contact_us.html">Contact Us</a> | <a href="sponsors.html">Sponsors</a> | <a href="new_to_townsville.html">New To Townsville?</a> </div>
+  
     
   
   </div>
