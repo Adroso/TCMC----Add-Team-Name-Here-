@@ -43,17 +43,16 @@
 <h1 style="color:#fff;">Artists</h1>
 <div id="featuredart"><img style="display:inline;float:left;padding-right:30px;" src="TCMC Images Docs/musos/Harbourside.jpg" width="380" height="300"  alt=""/><h1>Harbourside Duo</h1><p>Harbourside Duo is a new ensemble performing in Townsville and North Queensland featuring Monica Martin on Violin and David Roberts on Classical Guitar.</p><p>Harbourside Duo is available for Corporate Functions, Weddings and Private Gatherings. </p>
   <p><b> Contact Number:</b> 0459 239 290</p> <p><b>Website:</b> <a href="http://www.davidrobertsguitar.com.au/Harbourside-Duo.html">www.davidrobertsguitar.com.au</a></p></div>
-    <div id="individualart"><span id="artinfo"> <p>Four talented musicians combine their skills in a variety of musical styles</p></span><img src="TCMC Images Docs/musos/AVIVA-TREEcrop4001.jpg" width="220" height="140"  alt=""/></div>
-    <div id="individualart"><span id="artinfo"> <p>The Camerata Singers perform a range of styles from classical to Acappella and contemporary</p></span><img src="TCMC Images Docs/musos/Camerata1.jpg" width="220" height="140"  alt=""/></div>
-    <div id="individualart"><span id="artinfo"> <p>This 11 piece band is a fun-loving kick-em-in-the-pants band</p></span><img src="TCMC Images Docs/musos/Celtic-Fyre-Wall-with-Fire81.jpg" width="220" height="140"  alt=""/></div>
-    <div id="individualart"><span id="artinfo"> <p>Wassa is a six-piece percussion group performing traditional rhythms</p></span><img src="TCMC Images Docs/musos/Wassa011.jpg" width="220" height="140"  alt=""/></div>
-    <div id="individualart"><span id="artinfo"> <p>A tast brew of Oz songs and Oz voices, with guitar and harmonica.</p></span><img src="TCMC Images Docs/musos/Poms1.jpg" width="220" height="140"  alt=""/></div>
-            <div id="individualart"><span id="artinfo"> <p>Rosewood Guitar Quartet - Sample CD Avalible</p></span><img src="TCMC Images Docs/musos/Rosewood011.jpg" width="220" height="140"  alt=""/></div>
-            <div id="individualart"><span id="artinfo"> <p>A not for profit community 22 piece Big Band</p></span><img src="TCMC Images Docs/musos/SNBB11.jpg" width="220" height="140"  alt=""/></div>
-            <div id="individualart"><span id="artinfo"> <p>We perform classical to musical theatre and modern musics.</p></span><img src="TCMC Images Docs/musos/TCBSaxLogo8001.jpg" width="220" height="140"  alt=""/></div>
-            <div id="individualart"><span id="artinfo"> <p>Townsville's dynamic 12-piece Stage Band! </p></span><img src="TCMC Images Docs/musos/DD6004001.png" width="220" height="140"  alt=""/></div>
-            <div id="individualart"><span id="artinfo"> <p>Aquapella are 50 singers from Townsville bringing you Acappella</p></span><img src="TCMC Images Docs/musos/Aquapella011.jpg" width="220" height="140"  alt=""/></div>
-
+    <div class="individualart"><span id="artinfo"> <p>Four talented musicians combine their skills in a variety of musical styles</p></span><img src="TCMCImages/musos/AVIVA-TREEcrop4001.jpg" width="220" height="140"  alt=""/></div>
+    <div class="individualart"><span id="artinfo"> <p>The Camerata Singers perform a range of styles from classical to Acappella and contemporary</p></span><img src="TCMCImages/musos/Camerata1.jpg" width="220" height="140"  alt=""/></div>
+    <div class="individualart"><span id="artinfo"> <p>This 11 piece band is a fun-loving kick-em-in-the-pants band</p></span><img src="TCMCImages/musos/Celtic-Fyre-Wall-with-Fire81.jpg" width="220" height="140"  alt=""/></div>
+    <div class="individualart"><span id="artinfo"> <p>Wassa is a six-piece percussion group performing traditional rhythms</p></span><img src="TCMCImages/musos/Wassa011.jpg" width="220" height="140"  alt=""/></div>
+    <div class="individualart"><span id="artinfo"> <p>A tast brew of Oz songs and Oz voices, with guitar and harmonica.</p></span><img src="TCMCImages/musos/Poms1.jpg" width="220" height="140"  alt=""/></div>
+            <div class="individualart"><span id="artinfo"> <p>Rosewood Guitar Quartet - Sample CD Avalible</p></span><img src="TCMCImages/musos/Rosewood011.jpg" width="220" height="140"  alt=""/></div>
+            <div class="individualart"><span id="artinfo"> <p>A not for profit community 22 piece Big Band</p></span><img src="TCMCImages/musos/SNBB11.jpg" width="220" height="140"  alt=""/></div>
+            <div class="individualart"><span id="artinfo"> <p>We perform classical to musical theatre and modern musics.</p></span><img src="TCMCImages/musos/TCBSaxLogo8001.jpg" width="220" height="140"  alt=""/></div>
+            <div class="individualart"><span id="artinfo"> <p>Townsville's dynamic 12-piece Stage Band! </p></span><img src="TCMCImages/musos/DD6004001.png" width="220" height="140"  alt=""/></div>
+            <div class="individualart"><span id="artinfo"> <p>Aquapella are 50 singers from Townsville bringing you Acappella</p></span><img src="TCMCImages/musos/Aquapella011.jpg" width="220" height="140"  alt=""/></div>
 
 
     
