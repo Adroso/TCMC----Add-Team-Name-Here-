@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS For TCMC*/
 /* START General Styles */
-/* Note Additional lines of CSS for pages not yet uploaded to the server*/
+
 body{
 	background-image: url(bg2.png);
 	background-color: #333333;
@@ -236,7 +236,7 @@ z-index: 4;
 	height:300px;
 	margin-bottom: 20px;
 }
-#individualart{
+.individualart{
 	float:left;
 	width:220px;
 	height:140px;
@@ -247,7 +247,7 @@ z-index: 4;
 	margin-bottom: 20px;
 
 }
-#featuredsml{ /* home page featured*/
+.featuredsml{ /* home page featured*/
 	float: left;
 	background-color: #FFF;
 	margin-top: 20px;
@@ -264,7 +264,7 @@ z-index: 4;
 	padding: 5px;
 }
 
-#event{
+.event{
 	background-color: #FFF;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -274,11 +274,11 @@ z-index: 4;
 #artinfo { 
 display: none; 
 }
-#individualart:hover #artinfo { 
+.individualart:hover #artinfo { 
 display: block;
  }
  
- #individualart:hover img { 
+ .individualart:hover img { 
 display: none; 
  }
 
@@ -315,7 +315,7 @@ display: none;
 /* END Content Container Styles */
 #Footer{
 	background: #212121;
-	padding-top:20px;
+	padding-top: 20px;
 	height: 170px;
 	width: 1200px;
 	float: left;
@@ -323,6 +323,7 @@ display: none;
 	position: relative;
 	text-align: center;
 	opacity: 0.9;
+	color: #FFFFFF;
 }
 #footerhead	{
 	width: 1200px;
@@ -335,13 +336,13 @@ display: none;
 }
 
 #footercontact{
-	width:600px;
+	width:400px;
 	height:90px;
 	float:left;
 }
 
 #footerright{
-	width:600px;
+	width:800px;
 	height:90px;
 	float:left;
 }
